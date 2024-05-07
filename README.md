@@ -1,4 +1,4 @@
-# QR Code Generator Web App
+# QR Code Generator
 
 This web application allows users to generate QR codes dynamically based on the input provided.
 
